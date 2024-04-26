@@ -6,6 +6,17 @@ public class hello_world {
 		// TODO Auto-generated method stub
 		
 		//suintaxis de java
+		
+		
+		//comentarios
+		//copmetarios en bloque
+		/*
+		 * hola ramiro
+		 * jugamos dota*/
+		
+		//comentatios en parrafo
+		//comentario en parrafo -------------------------------
+		
 		System.out.print("hello world");
 
 	}

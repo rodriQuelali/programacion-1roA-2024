@@ -5,11 +5,11 @@ JAVA:
 1. Sintaxis.
 2. El lenguaje Java da de base una serie de tipos de datos primitivos.
 
-byte
-short
-int
-long
-float
-double
-boolean
-char
+byte,
+short,
+int,
+long,
+float,
+double,
+boolean,
+char,

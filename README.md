@@ -12,4 +12,7 @@ long,
 float,
 double,
 boolean,
-char,
+char.
+
+3. Operadroes
+

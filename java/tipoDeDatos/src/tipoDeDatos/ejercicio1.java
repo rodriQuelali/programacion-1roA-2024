@@ -10,7 +10,7 @@ public class ejercicio1 {
 		A =20;
 		B = 30;
 		
-		S = A +B;
+		S = A + B;
 		System.out.print(S);
 		
 	}

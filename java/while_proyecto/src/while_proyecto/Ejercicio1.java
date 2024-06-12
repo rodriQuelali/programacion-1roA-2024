@@ -22,7 +22,7 @@ public class Ejercicio1 {
 		x=13;
 		y=x;
 		System.out.print("iniciando");
-		while (y != 1 && y != 0) {
+		while (y != 1 && y !=0) {
 			//y = y -2;
 			y -=2;
 			System.out.print(y);
